@@ -1,4 +1,4 @@
-var massgEmpty = ('Favorite Article List Not Available'),
+var massgEmpty = ('Favorite Article List Empty'),
 	articleLabel = ('All Content'),
 	link_articleLabel = ('https://www.ibloggospel.com/');
 (function($) {
